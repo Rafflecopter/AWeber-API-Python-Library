@@ -35,8 +35,5 @@ setup(
         'mock',
         'coverage',
     ],
-    setup_requires=[
-        'nose',
-    ],
     include_package_data=True
 )
